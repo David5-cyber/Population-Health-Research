@@ -64,6 +64,7 @@ The integration of these components enables:
 
 # Challenges
 Despite its promise, HI faces obstacles such as:
+
 •	Data privacy and cybersecurity concerns.
 
 •	Interoperability issues between systems.
