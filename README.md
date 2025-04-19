@@ -42,6 +42,7 @@ A mixed-methods approach was used, incorporating:
 	
 # Key Findings
 The integration of these components enables:
+
 •	Early identification of high-risk individuals.
 
 •	Remote and continuous monitoring of chronic conditions.
