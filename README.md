@@ -1,4 +1,4 @@
-# Population-Health-Research
+# Population/Public Health-Research
 
 # Leveraging Health Informatics and AI to Enhance Preventive Healthcare and Disease Management
 This project explores how Health Informatics (HI) and Artificial Intelligence (AI) can transform preventive healthcare and chronic disease management.  The study emphasizes how digital health tools can improve early disease detection, personalize treatment, and reduce healthcare disparities.
