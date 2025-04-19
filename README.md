@@ -5,6 +5,7 @@ This project explores how Health Informatics (HI) and Artificial Intelligence (A
 
 # Objectives
 The project aims to:
+
 •	Assess the impact of AI on healthcare quality.
 
 •	Evaluate the effectiveness of wearable devices in encouraging preventive behavior.
