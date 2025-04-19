@@ -89,6 +89,10 @@ The project identifies emerging directions including:
 
 •	Blockchain and AI integration for secure, intelligent health systems.
 
+# Personal Contribution 
+ I conducted extensive research on AI applications in chronic disease prevention and digital health disparities. I led the analysis of wearable and RPM technologies, co-authored the literature review, and compiled case examples showcasing their real-world benefits. I also contributed to drafting and refining the final report and proposed future integration ideas such as genomics and IoT-enabled care models.
+
+
 # Conclusion
 
 Health informatics and AI represent the future of healthcare, supporting a shift from reactive to proactive, personalized, and equitable care. By embracing these innovations, healthcare systems can improve outcomes, reduce disparities, and better manage both preventive and chronic care in the digital age.
